@@ -1,0 +1,42 @@
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\KinectDataManagement.exe.config
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\KinectDataManagement.exe
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\KinectDataManagement.pdb
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\MainWindow.baml
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\MainWindow.g.cs
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\App.g.cs
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement_MarkupCompile.cache
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.g.resources
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.Properties.Resources.resources
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.csproj.GenerateResource.Cache
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.exe
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.pdb
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.csprojResolveAssemblyReference.cache
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\KinectDataManagement.exe.config
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.exe
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.pdb
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\KinectDataManagement.exe
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\KinectDataManagement.pdb
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\MainWindow.baml
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\MainWindow.g.cs
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\App.g.cs
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement_MarkupCompile.cache
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.g.resources
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.Properties.Resources.resources
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.csproj.GenerateResource.Cache
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\SharpDX.dll
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Debug\SharpDX.xml
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\Debug\KinectDataManagement.csprojResolveAssemblyReference.cache

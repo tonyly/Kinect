@@ -1,0 +1,37 @@
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\KinectDataManagement.exe.config
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\MainWindow.baml
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\MainWindow.g.cs
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\App.g.cs
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement_MarkupCompile.cache
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement.g.resources
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement.Properties.Resources.resources
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement.csproj.GenerateResource.Cache
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\KinectDataManagement.exe
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\KinectDataManagement.pdb
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\WriteableBitmapEx.Wpf.dll
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\WriteableBitmapEx.Wpf.pdb
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\WriteableBitmapEx.Wpf.xml
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement.exe
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement.pdb
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement.csprojResolveAssemblyReference.cache
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\KinectDataManagement.exe.config
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement.exe
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement.pdb
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\KinectDataManagement.exe
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\KinectDataManagement.pdb
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\Microsoft.Kinect.dll
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\WriteableBitmapEx.Wpf.dll
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\Microsoft.Kinect.xml
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\WriteableBitmapEx.Wpf.pdb
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\x64\Release\WriteableBitmapEx.Wpf.xml
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\MainWindow.baml
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\MainWindow.g.cs
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\App.g.cs
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement_MarkupCompile.cache
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement.g.resources
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement.Properties.Resources.resources
+C:\Users\Douglas Winston\Workspace\KinectDataManagement\KinectDataManagement\obj\x64\Release\KinectDataManagement.csproj.GenerateResource.Cache

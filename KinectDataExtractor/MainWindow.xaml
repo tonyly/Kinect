@@ -1,0 +1,42 @@
+﻿<Window x:Class="KinectDataManagement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KinectDataManagement"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="35"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="0">
+            <Button x:Name="OpenButton" Margin="5 5 0 5" Padding="5 2">Open</Button>
+            <Button x:Name="PlayButton" Margin="5 5 0 5" Padding="5 2">Play</Button>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center">Output:</TextBlock>
+            <ComboBox x:Name="OutputCombo" Margin="5"/>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center">Playback Location:</TextBlock>
+            <Slider x:Name="LocationSlider" Margin="5" Width="300" VerticalAlignment="Center" Minimum="0" Maximum="100"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center">Color Codec:</TextBlock>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center" Name="colorCodec">-</TextBlock>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center">Depth Codec:</TextBlock>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center" Name="depthCodec">-</TextBlock>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center">Infrared Codec:</TextBlock>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center" Name="infraredCodec">-</TextBlock>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center">Color fps:</TextBlock>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center" Name="colorFps">-</TextBlock>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center">Depth fps:</TextBlock>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center" Name="depthFps">-</TextBlock>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center">Infrared fps:</TextBlock>
+            <TextBlock Margin="15 0 0 0" VerticalAlignment="Center" Name="infraredFps">-</TextBlock>
+            
+        </StackPanel>
+        <Rectangle Fill="Black" Grid.Row="2"/>
+        <Image x:Name="OutputImage" Grid.Row="2"/>
+    </Grid>
+</Window>

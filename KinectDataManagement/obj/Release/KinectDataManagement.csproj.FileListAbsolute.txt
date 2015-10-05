@@ -1,0 +1,1 @@
+C:\Users\Winston\Workspace\KinectDataManagement\KinectDataManagement\bin\Release\KinectDataManagement.exe.config
